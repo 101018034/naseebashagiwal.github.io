@@ -1,3 +1,4 @@
+// Creates the thumbnails and controls the image gallery.
 const displayedImage = document.querySelector(".displayed-img");
 const thumbBar = document.querySelector(".thumb-bar");
 
